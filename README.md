@@ -8,3 +8,4 @@ Dependencies:
 - Python
 - Ganache
 - Brownie
+- chainlink-mix
